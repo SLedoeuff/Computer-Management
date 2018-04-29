@@ -1,0 +1,3 @@
+*/5 * * * * /home/GetData.py
+*/5 * * * * /home/Alert.py
+*/5 * * * * /home/EraseOld.py
