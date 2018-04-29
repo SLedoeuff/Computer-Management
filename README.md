@@ -96,19 +96,19 @@ Aussi, tout les fichier, qu'ils soient du coté admin ou du coté machine, sont 
 
 
 
-Les librairies qui ont été utilisées durant ce projet sont:
-	-BeautifulSoup4
-	-lxml
-	-commands
-	-subprocess
-	-psutil
-	-os
-	-array
-	-smtplib 
-	-getpass 
-	-sys
-	-urllib2
-	-pygal
-	-re
+Les librairies qui ont été utilisées durant ce projet sont:  
+	-BeautifulSoup4  
+	-lxml  
+	-commands  
+	-subprocess  
+	-psutil  
+	-os  
+	-array  
+	-smtplib   
+	-getpass   
+	-sys  
+	-urllib2  
+	-pygal  
+	-re  
 
 Le script Dependencies.sh sert à installer les librairies qui ne sont pas installées de base.
