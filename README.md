@@ -1,4 +1,3 @@
-
 Voici, séparé en deux dossier, le système de surveillance de parc informatique, dans le cadre du projet
 d'administration des systemes.
 
