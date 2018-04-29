@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<infos>
+<info>
+  <date>03/04/2017 12:42</date>
+  <CPU>88</CPU>
+  <Nom_Machine>PC-1234</Nom_Machine>
+  <disque>75</disque>
+  <RAM>68</RAM>
+  <nombre_process>413</nombre_process>
+  <nombre_process_systeme>90</nombre_process_systeme>
+  <nombre_process_user>307</nombre_process_user>
+  <utilisateurs>2</utilisateurs>
+</info>
+
+<info>
+  <date>19/05/2017 11:47</date>
+  <CPU>100.0</CPU>
+  <Nom_Machine>SLD</Nom_Machine>
+  <disque>26.1</disque>
+  <RAM>15.9</RAM>
+  <nombre_process>119</nombre_process>
+  <nombre_process_systeme>113</nombre_process_systeme>
+  <nombre_process_user>5</nombre_process_user>
+  <utilisateurs>1</utilisateurs>
+</info>
+
+<info>
+  <date>19/05/2017 11:57</date>
+  <CPU>100.0</CPU>
+  <Nom_Machine>SLD</Nom_Machine>
+  <disque>26.1</disque>
+  <RAM>15.9</RAM>
+  <nombre_process>119</nombre_process>
+  <nombre_process_systeme>113</nombre_process_systeme>
+  <nombre_process_user>5</nombre_process_user>
+  <utilisateurs>1</utilisateurs>
+</info>
+
+<info>
+  <date>19/05/2017 14:34</date>
+  <CPU>100.0</CPU>
+  <Nom_Machine>SLD</Nom_Machine>
+  <disque>26.1</disque>
+  <RAM>15.8</RAM>
+  <nombre_process>119</nombre_process>
+  <nombre_process_systeme>112</nombre_process_systeme>
+  <nombre_process_user>6</nombre_process_user>
+  <utilisateurs>1</utilisateurs>
+</info>
+
+<info>
+  <date>19/05/2017 14:34</date>
+  <CPU>100.0</CPU>
+  <Nom_Machine>SLD</Nom_Machine>
+  <disque>26.1</disque>
+  <RAM>15.7</RAM>
+  <nombre_process>120</nombre_process>
+  <nombre_process_systeme>113</nombre_process_systeme>
+  <nombre_process_user>6</nombre_process_user>
+  <utilisateurs>1</utilisateurs>
+</info>
+
+<info>
+  <date>19/05/2017 14:50</date>
+  <CPU>100.0</CPU>
+  <Nom_Machine>SLD</Nom_Machine>
+  <disque>26.1</disque>
+  <RAM>15.8</RAM>
+  <nombre_process>119</nombre_process>
+  <nombre_process_systeme>112</nombre_process_systeme>
+  <nombre_process_user>6</nombre_process_user>
+  <utilisateurs>1</utilisateurs>
+</info>
+
+<info>
+  <date>21/05/2017 10:41</date>
+  <CPU>100.0</CPU>
+  <Nom_Machine>ubuntu</Nom_Machine>
+  <disque>53.1</disque>
+  <RAM>7.4</RAM>
+  <nombre_process>99</nombre_process>
+  <nombre_process_systeme>92</nombre_process_systeme>
+  <nombre_process_user>6</nombre_process_user>
+  <utilisateurs>1</utilisateurs>
+</info>
+
+<info>
+  <date>21/05/2017 10:41</date>
+  <CPU>100.0</CPU>
+  <Nom_Machine>ubuntu</Nom_Machine>
+  <disque>53.1</disque>
+  <RAM>7.4</RAM>
+  <nombre_process>99</nombre_process>
+  <nombre_process_systeme>92</nombre_process_systeme>
+  <nombre_process_user>6</nombre_process_user>
+  <utilisateurs>1</utilisateurs>
+</info>
+
+<info>
+  <date>21/05/2017 10:41</date>
+  <CPU>100.0</CPU>
+  <Nom_Machine>ubuntu</Nom_Machine>
+  <disque>53.1</disque>
+  <RAM>7.4</RAM>
+  <nombre_process>99</nombre_process>
+  <nombre_process_systeme>92</nombre_process_systeme>
+  <nombre_process_user>6</nombre_process_user>
+  <utilisateurs>1</utilisateurs>
+</info>
+
+<info>
+  <date>21/05/2017 10:41</date>
+  <CPU>100.0</CPU>
+  <Nom_Machine>ubuntu</Nom_Machine>
+  <disque>53.1</disque>
+  <RAM>7.4</RAM>
+  <nombre_process>99</nombre_process>
+  <nombre_process_systeme>92</nombre_process_systeme>
+  <nombre_process_user>6</nombre_process_user>
+  <utilisateurs>1</utilisateurs>
+</info>
+
+<info>
+  <date>21/05/2017 10:41</date>
+  <CPU>100.0</CPU>
+  <Nom_Machine>ubuntu</Nom_Machine>
+  <disque>53.1</disque>
+  <RAM>7.4</RAM>
+  <nombre_process>99</nombre_process>
+  <nombre_process_systeme>92</nombre_process_systeme>
+  <nombre_process_user>6</nombre_process_user>
+  <utilisateurs>1</utilisateurs>
+</info>
+
+<info>
+  <date>21/05/2017 10:41</date>
+  <CPU>100.0</CPU>
+  <Nom_Machine>ubuntu</Nom_Machine>
+  <disque>53.1</disque>
+  <RAM>7.4</RAM>
+  <nombre_process>99</nombre_process>
+  <nombre_process_systeme>92</nombre_process_systeme>
+  <nombre_process_user>6</nombre_process_user>
+  <utilisateurs>1</utilisateurs>
+</info>
+
+</infos>

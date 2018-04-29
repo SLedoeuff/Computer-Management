@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<CPU>75</CPU>
+	<RAM>80</RAM>
+	<Dsk>80</Dsk>
+	<Process>350</Process>
+	<User>10</User>
+</config>
